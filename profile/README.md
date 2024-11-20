@@ -10,5 +10,5 @@ Jump into Helmless with these resources:
 
 - 🌐 [Project Homepage](https://helmless.io): *Explore the official site for guides, architecture insights, and community updates.*
 - 📦 [Google CloudRun Chart](https://github.com/helmless/google-cloudrun-chart): *Deploy serverless containers with ease using our Helmless chart tailored for Google CloudRun.*
-- ⚡️ [Quickstart Guide](https://helmless.io/google-cloudrun/getting-started/): Deploy your first Google CloudRun container in minutes.
+- ⚡️ [Quickstart Guide](https://helmless.io/google-cloudrun/getting-started/): *Deploy your first Google CloudRun container in minutes.*
 
