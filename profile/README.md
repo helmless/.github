@@ -1,6 +1,7 @@
 # Welcome to Helmless! 🚀☁️⚙️
 
-Simplify your serverless deployments!  
+Simplify your serverless deployments with [helmless.io](https://helmless.io)!  
+
 Helmless is an open-source project combining the power of Helm ⚓, CI/CD pipelines 🛠️, and GitOps workflows 📜 to deliver fast, efficient serverless deployments — without the complexity of Kubernetes and the overhead of Terraform.
 
 ## Getting Started 🛠️
