@@ -9,6 +9,6 @@ Helmless is an open-source project combining the power of Helm ⚓, CI/CD pipeli
 Jump into Helmless with these resources:
 
 - 🌐 [Project Homepage](https://helmless.io): *Explore the official site for guides, architecture insights, and community updates.*
-- 📦 [Google Cloud Run Chart](https://helmless.io/docs/cloudrun/schemas/): *Deploy serverless containers with ease using our Helmless chart tailored for Google Cloud Run.*
+- 📦 [Google Cloud Run Chart](https://helmless.io/docs/schemas/): *Deploy serverless containers with ease using our Helmless chart tailored for Google Cloud Run.*
 - ⚡️ [Quickstart Guide](https://helmless.io/docs/cloudrun/quickstart/): *Deploy your first Google Cloud Run container in minutes.*
 
